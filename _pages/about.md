@@ -62,7 +62,7 @@ I am particularly interested in recruiting graduate students with a strong found
 1. **<u>Dong Ding</u>**, Zhicheng Ji, Yan Wang<sup>&#42;</sup>. [Research on surface roughness prediction method based on composite penalty regression model](https://www.worldscientific.com/doi/abs/10.1142/S0217984918401152), *Modern Physics Letters B*, 2018, 32: 1840115. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 ## **Journal papers (as corresponding author)**
-1. Yuchen Gong, Yunfei Ding<sup>&#42;</sup>, **<u>Dong Ding</u><sup>&#42;</sup>**. [Prescribed performance control for switched impulsively coupled systems: An impulse-tolerant dynamic surface approach](https://link.springer.com/article/10.1007/s11071-026-12854-5), *Nonlinear Dyanmics*, 2026, 114: 940. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:r0BpntZqJG4C'></span></strong>
+1. Yuchen Gong, Yunfei Ding<sup>&#42;</sup>, **<u>Dong Ding</u>**<sup>&#42;</sup>. [Prescribed performance control for switched impulsively coupled systems: An impulse-tolerant dynamic surface approach](https://link.springer.com/article/10.1007/s11071-026-12854-5), *Nonlinear Dyanmics*, 2026, 114: 940. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:r0BpntZqJG4C'></span></strong>
 
 ## **Conference papers**
 1. **<u>Dong Ding</u>**, Boling Zhou<sup>&#42;</sup>, Fengzeng Zhu, Qi Chang, Chuanbo Wen. [Bipartite synchronization for complex dynamic networks via impulsive inputs with packet loss](https://ieeexplore.ieee.org/document/10933741), *4th International Conference on Control Theory and Applications (ICoCTA)*, Hangzhou, China, 2024, 36-40.
